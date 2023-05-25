@@ -140,6 +140,7 @@ main .descuento {
 
 main section article {
     margin-bottom: 10px;
+    background-color: #FFF;
     border-top: 10px solid #ebebeb;
     padding: 15px;
     box-shadow: 0px 0px 10px rgba(100, 100, 100, .4);
