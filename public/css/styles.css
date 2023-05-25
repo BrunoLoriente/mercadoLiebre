@@ -315,7 +315,7 @@ form div {
     color: #0022aa;
 }
 
-@media (min-width: 515px) {
+@media (min-width: 500px) {
     .productos{
         display: flex;
         flex-wrap: wrap;
